@@ -1,0 +1,392 @@
+<!DOCTYPE html><html><head><script>if(location.host=="j2k.naver.com"||location.host=="jptrans.naver.net"||location.host=="archive.org"){window.top.location="http://battlecats-db.com/";}window.onload=function(){var a=document.getElementsByClassName("adsbygoogle");a.length&&!a[0].getElementsByTagName("iframe").length&&($("body").css({display:"none"}),$("html").css({"background-color":"#b06000"}))};</script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-48689104-8', 'auto');ga('send', 'pageview');</script><meta charset="utf-8"><link rel="stylesheet" href="../css/pc.css"><script src="../script/import.js" type="text/javascript"></script><title>にゃんこ大戦争DB ステージデータ詳細 伝説のはじまり 大地を揺るがす</title><meta name="description" content="「にゃんこ大戦争」のデータベース掲載サイトです。ステージデータ詳細「伝説のはじまり 大地を揺るがす」"><meta name="keywords" content="にゃんこ,にゃんこ大戦争,battlecats,データベース,database,DB,攻略,ステージデータ詳細,伝説のはじまり 大地を揺るがす"><meta name="robots" content="index,follow">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-Control" content="no-cache">
+<meta http-equiv="expires" content="0">
+</head><body><div id="main"><div id="header-img"><a href="../"><img src="https://battlecats-db.imgs-server.com/logo.png"></a></div><div id="header-menu">
+ <ul class="clearfix">
+  <li class="home"><a href="../">スケジュール</a></li>
+  <li><a href="../stage/">ステージ</a></li>
+  <li><a href="../unit/">味方詳細</a></li>
+  <li><a href="../unit/index_status.html">味方ステータス</a></li>
+  <li><a href="../enemy/">敵詳細</a></li>
+  <li><a href="../enemy/index_status.html">敵ステータス</a></li>
+  <li><a href="../unit/index_lot.html">ガチャ</a></li>
+  <li><a href="../unit/index_combo.html">にゃんコンボ</a></li>
+ </ul>
+</div>
+<div id="header-img"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- bcHeader -->
+<ins class="adsbygoogle bcHeader"
+     style="display:block;width:950px;"
+     data-ad-client="ca-pub-2731002088029446"
+     data-ad-slot="1342520817"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div id="container"><div id="contents"><h2><a href="s00000.html">伝説のはじまり</a> - 大地を揺るがす</h2><table id="List" class="List fs12 pd1"><tr class="bgc10"><td><a href="s00000-01.html">無印</a>　<a href="s00000-01.html?star=2">★2</a>　<a href="s00000-01.html?star=3">★3</a>　<a href="s00000-01.html?star=4">★4</a></td><td class="adj"></td></tr><tr class="space"><td></td></tr></table><img class="bnr" src="https://battlecats-db.imgs-server.com/s00000.png"><div class="maincontents"><table id="List" class="zebList trline fs12 pd1"><thead>
+<tr class="bgc08"><td class="bgc12" rowspan="5"></td><td class="bgc12" rowspan="2">01</td><td class="bgc12" colspan="2" rowspan="2">大地を揺るがす 詳細</td><td class="bgc12 R">消費統率力</td><td class="R"><font class="LL">50</font></td><td></td><td></td><td></td><td class="adj"></td></tr><tr class="bgc04"><td class="bgc12 R">獲得経験値</td><td class="R"><font class="L">XP+950</font></td><td></td><td></td><td></td><td></td></tr><tr class="bgc08"><td class="bgc12" rowspan="3"></td><td class="bgc12" rowspan="3" colspan="2"><img class="bg" src="https://battlecats-db.imgs-server.com/bg000.png"> <img class="castle" src="https://battlecats-db.imgs-server.com/castle_rc000.png"></td><td class="bgc12 R">城体力</td><td class="R">60,000</td><td></td><td></td><td></td><td></td></tr><tr class="bgc04"><td class="bgc12 R">ステージ幅</td><td class="R">4,200</td><td></td><td></td><td></td><td></td></tr><tr class="bgc08"><td class="bgc12 R">出撃最大数</td><td class="R">7</td><td></td><td></td><td></td><td></td></tr><tr class="space"></tr><tr class="bgc12"><td colspan="2"></td><td>ドロップ</td><td></td><td class="R">確率</td><td class="R">取得上限</td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr><td colspan="2"></td><td><img class="chars" src="https://battlecats-db.imgs-server.com/i000.png"></td><td>スピードアップ 1個</td><td class="R">1％</td><td class="R">無制限</td><td></td><td></td><td></td><td></td></tr></tbody><thead><tr class="space"></tr><tr class="bgc12"><td colspan="2"></td><td>素材ドロップ</td><td>抽選回数 2回</td><td class="R">確率</td><td></td><td></td><td></td><td></td><td></td></tr></thead><tbody><tr><td colspan="2"></td><td><img class="chars" src="https://battlecats-db.imgs-server.com/i085.png"></td><td>レンガ 1個</td><td class="R">13％</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2"></td><td><img class="chars" src="https://battlecats-db.imgs-server.com/i087.png"></td><td>備長炭 1個</td><td class="R">13％</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="2"></td><td><img class="chars" src="https://battlecats-db.imgs-server.com/i088.png"></td><td>鋼の歯車 1個</td><td class="R">13％</td><td></td><td></td><td></td><td></td><td></td></tr></tbody><thead><tr class="space"></tr><tr class="bgc12"><td colspan="2"></td><td>敵キャラ</td><td><a href="s00000-01_enemy.html">ステータス</a></td><td class="R">強さ倍率</td><td class="R">出現数</td><td class="R">城連動</td><td class="R">初登場F</td><td>再登場F</td><td></td></tr></thead><tbody><tr><td colspan="2"></td><td><img class="chars" src="https://battlecats-db.imgs-server.com/e002.png"></td><td><a href="../enemy/002.html?mag=200">わんこ</a></td><td class="R">200％</td><td class="R"><font class="LH">50</font></td><td class="R">100％</td><td class="R">0</td><td class="R">60～180</td><td></td></tr><tr><td colspan="2"></td><td><img class="chars" src="https://battlecats-db.imgs-server.com/e003.png"></td><td><a href="../enemy/003.html?mag=200">にょろ</a></td><td class="R">200％</td><td class="R"><font class="LH">50</font></td><td class="R">100％</td><td class="R">0</td><td class="R">60～180</td><td></td></tr><tr><td colspan="2"></td><td><img class="chars" src="https://battlecats-db.imgs-server.com/e004.png"></td><td><a href="../enemy/004.html?mag=200">例のヤツ</a></td><td class="R">200％</td><td class="R"><font class="LH">50</font></td><td class="R">100％</td><td class="R">0</td><td class="R">60～180</td><td></td></tr><tr><td colspan="2"></td><td><img class="chars" src="https://battlecats-db.imgs-server.com/e023.png"></td><td><a href="../enemy/023.html?mag=200">カンバン娘</a></td><td class="R">200％</td><td class="R"><font class="H">無制限</font></td><td class="R">100％</td><td class="R">27000</td><td class="R">27000</td><td></td></tr></tbody></table></div><!-- ０ -->
+<div style="width:336px;float:left;"><!-- ０ -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- bcFooterL -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-2731002088029446"
+     data-ad-slot="7109852816"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div style="width:336px;float:right;">
+<!-- ０ -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- bcFooterR -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-2731002088029446"
+     data-ad-slot="1063319217"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div><div class="menu">
+ <h3>ステージメニュー</h3>
+ <ul>
+  <li><div class="menusub"><a href=".">index</a></div></li>
+  <li><div class="menutop arrows"><a id="arrow71" class="arrow" href="javascript:void(0)">日本編</a></div>
+   <ul id="panel71" class="panel">
+    <li><div class="menusub"><a href="index_japan.html">index</a></div></li>
+    <li><div class="menusub"><a href="s03000.html">日本編 第1章</a></div></li>
+    <li><div class="menusub"><a href="s03001.html">日本編 第2章</a></div></li>
+    <li><div class="menusub"><a href="s03002.html">日本編 第3章</a></div></li>
+    <li><div class="menusub"><a href="treasure_japan01.html">日本編 第1章 お宝一覧</a></div></li>
+    <li><div class="menusub"><a href="treasure_japan02.html">日本編 第2章 お宝一覧</a></div></li>
+    <li><div class="menusub"><a href="treasure_japan03.html">日本編 第3章 お宝一覧</a></div></li>
+    <li><div class="menusub"><a href="index_japan_zombie.html">ゾンビ襲来 index</a></div></li>
+    <li><div class="menusub"><a href="s03000z.html">日本編 第1章 ゾンビ襲来</a></div></li>
+    <li><div class="menusub"><a href="s03001z.html">日本編 第2章 ゾンビ襲来</a></div></li>
+    <li><div class="menusub"><a href="s03002z.html">日本編 第3章 ゾンビ襲来</a></div></li>
+   </ul>
+  </li>
+  <li><div class="menutop arrows"><a id="arrow72" class="arrow" href="javascript:void(0)">未来編</a></div>
+   <ul id="panel72" class="panel">
+    <li><div class="menusub"><a href="index_future.html">index</a></div></li>
+    <li><div class="menusub"><a href="s03003.html">未来編 第1章</a></div></li>
+    <li><div class="menusub"><a href="s03004.html">未来編 第2章</a></div></li>
+    <li><div class="menusub"><a href="s03005.html">未来編 第3章</a></div></li>
+    <li><div class="menusub"><a href="treasure_future01.html">未来編 第1章 お宝一覧</a></div></li>
+    <li><div class="menusub"><a href="treasure_future02.html">未来編 第2章 お宝一覧</a></div></li>
+    <li><div class="menusub"><a href="treasure_future03.html">未来編 第3章 お宝一覧</a></div></li>
+    <li><div class="menusub"><a href="index_future_zombie.html">ゾンビ襲来 index</a></div></li>
+    <li><div class="menusub"><a href="s03003z.html">未来編 第1章 ゾンビ襲来</a></div></li>
+    <li><div class="menusub"><a href="s03004z.html">未来編 第2章 ゾンビ襲来</a></div></li>
+   </ul>
+  </li>
+  <li><div class="menutop arrows"><a id="arrow73" class="arrow" href="javascript:void(0)">宇宙編</a></div>
+   <ul id="panel73" class="panel">
+    <li><div class="menusub"><a href="index_space.html">index</a></div></li>
+    <li><div class="menusub"><a href="s03006.html">宇宙編 第1章</a></div></li>
+    <li><div class="menusub"><a href="s03007.html">宇宙編 第2章</a></div></li>
+    <li><div class="menusub"><a href="s03008.html">宇宙編 第3章</a></div></li>
+    <li><div class="menusub"><a href="treasure_space01.html">宇宙編 第1章 お宝一覧</a></div></li>
+    <li><div class="menusub"><a href="treasure_space02.html">宇宙編 第2章 お宝一覧</a></div></li>
+    <li><div class="menusub"><a href="treasure_space03.html">宇宙編 第3章 お宝一覧</a></div></li>
+   </ul>
+  </li>
+  <li><div class="menutop arrows"><a id="arrow74" class="arrow" href="javascript:void(0)">レジェンドステージ</a></div>
+   <ul id="panel74" class="panel">
+    <li><div class="menusub"><a href="index_legendstory.html">index</a></div></li>
+    <li><div class="menusub"><a href="s00000.html">伝説のはじまり</a></div></li>
+    <li><div class="menusub"><a href="s00001.html">情熱の国</a></div></li>
+    <li><div class="menusub"><a href="s00002.html">グルコサミン砂漠</a></div></li>
+    <li><div class="menusub"><a href="s00003.html">ネコども海を渡る</a></div></li>
+    <li><div class="menusub"><a href="s00004.html">見つめてキャッツアイ</a></div></li>
+    <li><div class="menusub"><a href="s00005.html">ウエスタン街道</a></div></li>
+    <li><div class="menusub"><a href="s00006.html">マグロ海域</a></div></li>
+    <li><div class="menusub"><a href="s00007.html">バンブー島</a></div></li>
+    <li><div class="menusub"><a href="s00008.html">ぷにぷに鍾乳洞</a></div></li>
+    <li><div class="menusub"><a href="s00009.html">ボルケーノ火山</a></div></li>
+    <li><div class="menusub"><a href="s00010.html">千里の道</a></div></li>
+    <li><div class="menusub"><a href="s00011.html">アオ・ザ・カナ</a></div></li>
+    <li><div class="menusub"><a href="s00012.html">軍艦島</a></div></li>
+    <li><div class="menusub"><a href="s00013.html">つめとぎの廊下</a></div></li>
+    <li><div class="menusub"><a href="s00014.html">パルテノン神殿</a></div></li>
+    <li><div class="menusub"><a href="s00015.html">ずんどこ海水浴場</a></div></li>
+    <li><div class="menusub"><a href="s00016.html">アルカトラズ島</a></div></li>
+    <li><div class="menusub"><a href="s00017.html">脱獄トンネル</a></div></li>
+    <li><div class="menusub"><a href="s00018.html">カポネの監獄</a></div></li>
+    <li><div class="menusub"><a href="s00019.html">シルクロード</a></div></li>
+    <li><div class="menusub"><a href="s00020.html">闇へと続く地下道</a></div></li>
+    <li><div class="menusub"><a href="s00021.html">魔王の豪邸</a></div></li>
+    <li><div class="menusub"><a href="s00022.html">終わりを告げる夜</a></div></li>
+    <li><div class="menusub"><a href="s00023.html">バトルロワイアル</a></div></li>
+    <li><div class="menusub"><a href="s00024.html">戦争のつめあと</a></div></li>
+    <li><div class="menusub"><a href="s00025.html">海を汚す悪しき者</a></div></li>
+    <li><div class="menusub"><a href="s00026.html">心と体、繋ぐもの</a></div></li>
+    <li><div class="menusub"><a href="s00027.html">脆弱性と弱酸性</a></div></li>
+    <li><div class="menusub"><a href="s00028.html">導かれしネコ達</a></div></li>
+    <li><div class="menusub"><a href="s00029.html">暗黒コスモポリス</a></div></li>
+    <li><div class="menusub"><a href="s00030.html">ガラ・パ・ゴス</a></div></li>
+    <li><div class="menusub"><a href="s00031.html">岩海苔半島</a></div></li>
+    <li><div class="menusub"><a href="s00032.html">恐ろし連邦</a></div></li>
+    <li><div class="menusub"><a href="s00033.html">亡者の住まう地</a></div></li>
+    <li><div class="menusub"><a href="s00034.html">絶島パンデミック</a></div></li>
+    <li><div class="menusub"><a href="s00035.html">ふくろのねずみランド</a></div></li>
+    <li><div class="menusub"><a href="s00036.html">ハリーウッド帝国</a></div></li>
+    <li><div class="menusub"><a href="s00037.html">こしぎんちゃくの浜辺</a></div></li>
+    <li><div class="menusub"><a href="s00038.html">雲泥温泉郷</a></div></li>
+    <li><div class="menusub"><a href="s00039.html">風待ちアイランド</a></div></li>
+    <li><div class="menusub"><a href="s00040.html">ITカタコンベ</a></div></li>
+    <li><div class="menusub"><a href="s00041.html">変覧会の絵</a></div></li>
+    <li><div class="menusub"><a href="s00042.html">エリア22</a></div></li>
+    <li><div class="menusub"><a href="s00043.html">超越サバンナ</a></div></li>
+    <li><div class="menusub"><a href="s00044.html">ブリザード自動車道</a></div></li>
+    <li><div class="menusub"><a href="s00045.html">シンギュラリティ村</a></div></li>
+    <li><div class="menusub"><a href="s00046.html">オワーリ大陸</a></div></li>
+    <li><div class="menusub"><a href="s00047.html">伝説のおわり</a></div></li>
+    <li><div class="menusub"><a href="s00048.html">古代研究所</a></div></li>
+   </ul>
+  </li>
+  <li><div class="menutop arrows"><a id="arrow75" class="arrow" href="javascript:void(0)">真レジェンドステージ</a></div>
+   <ul id="panel75" class="panel">
+    <li><div class="menusub"><a href="index_true_legendstory.html">index</a></div></li>
+    <li><div class="menusub"><a href="s13000.html">真・伝説のはじまり</a></div></li>
+    <li><div class="menusub"><a href="s13001.html">まんぷく秘境</a></div></li>
+    <li><div class="menusub"><a href="s13002.html">アドベン大森林</a></div></li>
+    <li><div class="menusub"><a href="s13003.html">じゃぶじゃぶ旧海道</a></div></li>
+    <li><div class="menusub"><a href="s13004.html">ワンワン湾</a></div></li>
+    <li><div class="menusub"><a href="s13005.html">深淵を覗く者</a></div></li>
+    <li><div class="menusub"><a href="s13006.html">デスメガシティ</a></div></li>
+    <li><div class="menusub"><a href="s13007.html">無法地帯のオキテ</a></div></li>
+    <li><div class="menusub"><a href="s13008.html">パラリラ半島</a></div></li>
+    <li><div class="menusub"><a href="s13009.html">キャットクーデター</a></div></li>
+    <li><div class="menusub"><a href="s13010.html">桜んぼ島</a></div></li>
+    <li><div class="menusub"><a href="s13011.html">魂底からの帰化</a></div></li>
+    <li><div class="menusub"><a href="s13012.html">絶滅海洋タウン</a></div></li>
+    <li><div class="menusub"><a href="s13013.html">島流しリゾート</a></div></li>
+    <li><div class="menusub"><a href="s13014.html">まどいの魔道路</a></div></li>
+    <li><div class="menusub"><a href="s13015.html">天界バル横丁</a></div></li>
+   </ul>
+  </li>
+  <li><div class="menutop arrows"><a id="arrow76" class="arrow" href="javascript:void(0)">スペシャルステージ</a></div>
+   <ul id="panel76" class="panel">
+    <li><div class="menusub"><a href="index_sp.html">index</a></div></li>
+    <li><div class="menusub"><a href="index_sp_event.html">イベントステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_season.html">シーズンイベントステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_monthly.html">月間イベントステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_weekly.html">曜日ステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_matatabi.html">マタタビステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_frenzy.html">狂乱ステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_lfrenzy.html">大狂乱ステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_cyclone.html">暴風ステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_cyclone_zetsu.html">絶・暴風ステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_kourin.html">降臨ステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_ex_eye.html">EX開眼ステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_small.html">ちび開眼ステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_memorial.html">記念ステージ</a></div></li>
+    <li><div class="menusub"><a href="index_sp_guerrilla.html">ゲリラステージ</a></div></li>
+   </ul>
+  </li>
+  <li><div class="menutop arrows"><a id="arrow77" class="arrow" href="javascript:void(0)">コラボステージ</a></div>
+   <ul id="panel77" class="panel">
+    <li><div class="menusub"><a href="index_collabo.html">index</a></div></li>
+    <li><div class="menusub"><a href="s02000.html">ふるさと自衛隊</a></div></li>
+    <li><div class="menusub"><a href="s02001.html">魅惑のプリンセス</a></div></li>
+    <li><div class="menusub"><a href="s02002.html">ケリ姫ステージ</a></div></li>
+    <li><div class="menusub"><a href="s02003.html">黎明期からの使者</a></div></li>
+    <li><div class="menusub"><a href="s02004.html">拡散性ミリオンアーサー</a></div></li>
+    <li><div class="menusub"><a href="s02005.html">ドラゴンポーカー</a></div></li>
+    <li><div class="menusub"><a href="s02006.html">ラスボス降臨！？</a></div></li>
+    <li><div class="menusub"><a href="s02007.html">地獄のメルクストーリア</a></div></li>
+    <li><div class="menusub"><a href="s02008.html">対決！メルクストーリア</a></div></li>
+    <li><div class="menusub"><a href="s02009.html">ドラゴンリーグ</a></div></li>
+    <li><div class="menusub"><a href="s02010.html">激突！！氣志團</a></div></li>
+    <li><div class="menusub"><a href="s02011.html">生きろ！マンボウ！ </a></div></li>
+    <li><div class="menusub"><a href="s02012.html">開眼のドロイド襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02013.html">消滅都市～第1章～</a></div></li>
+    <li><div class="menusub"><a href="s02014.html">消滅都市～第2章～</a></div></li>
+    <li><div class="menusub"><a href="s02015.html">消滅都市～第3章～</a></div></li>
+    <li><div class="menusub"><a href="s02016.html">極道大戦争</a></div></li>
+    <li><div class="menusub"><a href="s02017.html">逆襲のメルクストーリア（旧）</a></div></li>
+    <li><div class="menusub"><a href="s02018.html">開眼の癒術士襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02019.html">モンハン大狩猟クエスト</a></div></li>
+    <li><div class="menusub"><a href="s02020.html">【緊急】モンハン大狩猟クエスト</a></div></li>
+    <li><div class="menusub"><a href="s02021.html">メタルスラッグディフェンス</a></div></li>
+    <li><div class="menusub"><a href="s02022.html">超メタルスラッグディフェンス</a></div></li>
+    <li><div class="menusub"><a href="s02023.html">神略！ゆるドラシル</a></div></li>
+    <li><div class="menusub"><a href="s02024.html">城とドラゴン</a></div></li>
+    <li><div class="menusub"><a href="s02025.html">開眼の城とドラゴン</a></div></li>
+    <li><div class="menusub"><a href="s02026.html">難攻不落の城とドラゴン</a></div></li>
+    <li><div class="menusub"><a href="s02027.html">まもるよネコさん</a></div></li>
+    <li><div class="menusub"><a href="s02028.html">開眼のタクヤとユキ</a></div></li>
+    <li><div class="menusub"><a href="s02029.html">なめこからの挑戦状</a></div></li>
+    <li><div class="menusub"><a href="s02030.html">ふてたネコあらわる</a></div></li>
+    <li><div class="menusub"><a href="s02031.html">魔法少女まどか☆マギカ</a></div></li>
+    <li><div class="menusub"><a href="s02032.html">魔女の結界</a></div></li>
+    <li><div class="menusub"><a href="s02033.html">魔女の結界</a></div></li>
+    <li><div class="menusub"><a href="s02034.html">魔女の結界</a></div></li>
+    <li><div class="menusub"><a href="s02035.html">ワルプルギスの夜</a></div></li>
+    <li><div class="menusub"><a href="s02036.html">突撃！キャットバスターズ</a></div></li>
+    <li><div class="menusub"><a href="s02037.html">開眼の歌謡にゃんこ襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02038.html">ピコ太郎</a></div></li>
+    <li><div class="menusub"><a href="s02040.html">ナゾのウサギ登場！？</a></div></li>
+    <li><div class="menusub"><a href="s02041.html">ALICEの入り口</a></div></li>
+    <li><div class="menusub"><a href="s02042.html">月夜のオールドシティ</a></div></li>
+    <li><div class="menusub"><a href="s02043.html">開眼のケリ姫襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02044.html">開眼の眠れるケリの美女襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02045.html">失われし世界</a></div></li>
+    <li><div class="menusub"><a href="s02046.html">開眼のメルク襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02047.html">開眼のティティ襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02048.html">神秘のメルクストーリア（旧）</a></div></li>
+    <li><div class="menusub"><a href="s02049.html">ぐでぐでしてます</a></div></li>
+    <li><div class="menusub"><a href="s02050.html">どうせ食べられるだけだし</a></div></li>
+    <li><div class="menusub"><a href="s02052.html">聖杯戦争の始まり</a></div></li>
+    <li><div class="menusub"><a href="s02053.html">激闘！セイバー襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02054.html">激闘！ランサー襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02055.html">激闘！アーチャー襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02056.html">激闘！ライダー襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02057.html">大激闘！ギルガメッシュ襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02058.html">パワフル高校2年の夏</a></div></li>
+    <li><div class="menusub"><a href="s02059.html">ダイジョーブ博士の挑戦状</a></div></li>
+    <li><div class="menusub"><a href="s02060.html">デートステージ 猫塚かりん</a></div></li>
+    <li><div class="menusub"><a href="s02061.html">デートステージ 紺野美崎</a></div></li>
+    <li><div class="menusub"><a href="s02062.html">デートステージ 虹谷彩里</a></div></li>
+    <li><div class="menusub"><a href="s02063.html">デートステージ 片桐恋</a></div></li>
+    <li><div class="menusub"><a href="s02064.html">つくね荘からの挑戦状</a></div></li>
+    <li><div class="menusub"><a href="s02065.html">発進！エヴァンゲリオン</a></div></li>
+    <li><div class="menusub"><a href="s02066.html">決戦！ヤシマ作戦</a></div></li>
+    <li><div class="menusub"><a href="s02067.html">第9の使徒、襲来</a></div></li>
+    <li><div class="menusub"><a href="s02068.html">第10の使徒、襲来</a></div></li>
+    <li><div class="menusub"><a href="s02069.html">ポコ森の仲間たち</a></div></li>
+    <li><div class="menusub"><a href="s02070.html">仲良し3人組</a></div></li>
+    <li><div class="menusub"><a href="s02071.html">太秦萌の通学</a></div></li>
+    <li><div class="menusub"><a href="s02072.html">松賀咲の通学</a></div></li>
+    <li><div class="menusub"><a href="s02073.html">小野ミサの通学</a></div></li>
+    <li><div class="menusub"><a href="s02074.html">地下鉄に乗るっ</a></div></li>
+    <li><div class="menusub"><a href="s02075.html">タマシイの都</a></div></li>
+    <li><div class="menusub"><a href="s02076.html">ぐでぐでしてて忙しい</a></div></li>
+    <li><div class="menusub"><a href="s02077.html">開眼のぐでたまにゃんこ襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02078.html">城ドラ VS 城ドラ</a></div></li>
+    <li><div class="menusub"><a href="s02080.html">ケットバス王国の教え</a></div></li>
+    <li><div class="menusub"><a href="s02081.html">偽りの見滝原</a></div></li>
+    <li><div class="menusub"><a href="s02082.html">女王暴走</a></div></li>
+    <li><div class="menusub"><a href="s02083.html">ヒカキン降臨</a></div></li>
+    <li><div class="menusub"><a href="s02084.html">開眼のヒカキン襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02085.html">逆襲のメルクストーリア</a></div></li>
+    <li><div class="menusub"><a href="s02086.html">神秘のメルクストーリア</a></div></li>
+    <li><div class="menusub"><a href="s02087.html">超激闘！セイバーオルタ襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02088.html">生きろ！マンボウ！</a></div></li>
+    <li><div class="menusub"><a href="s02089.html">3億匹の仲間はみな死んだ</a></div></li>
+    <li><div class="menusub"><a href="s02092.html">聖魔大戦勃発！</a></div></li>
+    <li><div class="menusub"><a href="s02093.html">ビックリマンチョコ</a></div></li>
+    <li><div class="menusub"><a href="s02094.html">対決！魔幻モデル</a></div></li>
+    <li><div class="menusub"><a href="s02095.html">覚醒！ヤマト爆神</a></div></li>
+    <li><div class="menusub"><a href="s02096.html">ゆる～い！ねこ娘襲来！</a></div></li>
+    <li><div class="menusub"><a href="s02097.html">ゆる～いゲゲゲの鬼太郎</a></div></li>
+    <li><div class="menusub"><a href="s02098.html">消滅都市～ロストへ～</a></div></li>
+    <li><div class="menusub"><a href="s02099.html">天上の世界</a></div></li>
+    <li><div class="menusub"><a href="s02100.html">激闘！スイーツ大戦争</a></div></li>
+    <li><div class="menusub"><a href="s02102.html">第13号機、襲来</a></div></li>
+
+   </ul>
+  </li>
+  <li><div class="menutop arrows"><a id="arrow78" class="arrow" href="javascript:void(0)">ネコ道場ステージ</a></div>
+   <ul id="panel78" class="panel">
+    <li><div class="menusub"><a href="index_catdojo.html">index</a></div></li>
+    <li><div class="menusub"><a href="s06000.html">初心の間</a></div></li>
+    <li><div class="menusub"><a href="s06001.html">ニコニコの間</a></div></li>
+   </ul>
+  </li>
+  <li><div class="menutop arrows"><a id="arrow79" class="arrow" href="javascript:void(0)">ランキングステージ</a></div>
+   <ul id="panel79" class="panel">
+    <li><div class="menusub"><a href="index_ranking.html">index</a></div></li>
+    <li><div class="menusub"><a href="s11000.html">ランキングの間 赤てん大会</a></div></li>
+    <li><div class="menusub"><a href="s11001.html">ランキングの間<br>メン・イン・ブラック大会</a></div></li>
+    <li><div class="menusub"><a href="s11002.html">ランキングの間 不死鳥大会</a></div></li>
+    <li><div class="menusub"><a href="s11003.html">ランキングの間 5周年記念大会</a></div></li>
+    <li><div class="menusub"><a href="s11004.html">ランキングの間 無気力修行</a></div></li>
+    <li><div class="menusub"><a href="s11005.html">ランキングの間 6周年記念大会</a></div></li>
+    <li><div class="menusub"><a href="s11006.html">ランキングの間<br>乱闘！サーヴァント大襲来！</a></div></li>
+    <li><div class="menusub"><a href="s11007.html">ランキングの間 おさかな天国</a></div></li>
+    <li><div class="menusub"><a href="s11008.html">ランキングの間 襲来！ケリ姫軍団</a></div></li>
+   </ul>
+  </li>
+  <li><div class="menusub"><a href="s12000.html">チャレンジバトル</a></div></li>
+  <li><div class="menutop arrows"><a id="arrow80" class="arrow" href="javascript:void(0)">ドロップ・採点報酬別</a></div>
+   <ul id="panel80" class="panel">
+    <li><div class="menusub"><a href="index_drop.html">index</a></div></li>
+    <li><div class="menusub"><a href="drop00000.html">スピードアップ</a></div></li>
+    <li><div class="menusub"><a href="drop00001.html">トレジャーレーダー</a></div></li>
+    <li><div class="menusub"><a href="drop00002.html">ネコボン</a></div></li>
+    <li><div class="menusub"><a href="drop00003.html">ニャンピュータ</a></div></li>
+    <li><div class="menusub"><a href="drop00004.html">おかめはちもく</a></div></li>
+    <li><div class="menusub"><a href="drop00005.html">スニャイパー</a></div></li>
+    <li><div class="menusub"><a href="drop00006.html">XP</a></div></li>
+    <li><div class="menusub"><a href="drop00011.html">にゃんこチケット</a></div></li>
+    <li><div class="menusub"><a href="drop00012.html">レアチケット</a></div></li>
+    <li><div class="menusub"><a href="drop00013.html">ネコカン</a></div></li>
+    <li><div class="menusub"><a href="drop00014.html">MH大狩猟チケット</a></div></li>
+    <li><div class="menusub"><a href="drop00015.html">まもるよチケット</a></div></li>
+    <li><div class="menusub"><a href="drop00017.html">福引チケット</a></div></li>
+    <li><div class="menusub"><a href="drop00077.html">福引チケットG</a></div></li>
+    <li><div class="menusub"><a href="drop00111.html">ビックリマンチョコ</a></div></li>
+    <li><div class="menusub"><a href="drop00030.html">紫マタタビの種</a></div></li>
+    <li><div class="menusub"><a href="drop00031.html">赤マタタビの種</a></div></li>
+    <li><div class="menusub"><a href="drop00032.html">青マタタビの種</a></div></li>
+    <li><div class="menusub"><a href="drop00033.html">緑マタタビの種</a></div></li>
+    <li><div class="menusub"><a href="drop00034.html">黄マタタビの種</a></div></li>
+    <li><div class="menusub"><a href="drop00041.html">古代マタタビの種</a></div></li>
+    <li><div class="menusub"><a href="drop00035.html">紫マタタビ</a></div></li>
+    <li><div class="menusub"><a href="drop00036.html">赤マタタビ</a></div></li>
+    <li><div class="menusub"><a href="drop00037.html">青マタタビ</a></div></li>
+    <li><div class="menusub"><a href="drop00038.html">緑マタタビ</a></div></li>
+    <li><div class="menusub"><a href="drop00039.html">黄マタタビ</a></div></li>
+    <li><div class="menusub"><a href="drop00040.html">虹マタタビ</a></div></li>
+    <li><div class="menusub"><a href="drop00042.html">古代マタタビ</a></div></li>
+    <li><div class="menusub"><a href="drop00050.html">キャッツアイ【ＥＸ】</a></div></li>
+    <li><div class="menusub"><a href="drop00051.html">キャッツアイ【レア】</a></div></li>
+    <li><div class="menusub"><a href="drop00052.html">キャッツアイ【激レア】</a></div></li>
+    <li><div class="menusub"><a href="drop00053.html">キャッツアイ【超激レア】</a></div></li>
+    <li><div class="menusub"><a href="drop00054.html">キャッツアイ【伝説レア】</a></div></li>
+    <li><div class="menusub"><a href="drop00055.html">ネコビタンＡ</a></div></li>
+    <li><div class="menusub"><a href="drop00056.html">ネコビタンＢ</a></div></li>
+    <li><div class="menusub"><a href="drop00057.html">ネコビタンＣ</a></div></li>
+    <li><div class="menusub"><a href="drop00085.html">レンガ</a></div></li>
+    <li><div class="menusub"><a href="drop00086.html">羽根</a></div></li>
+    <li><div class="menusub"><a href="drop00087.html">備長炭</a></div></li>
+    <li><div class="menusub"><a href="drop00088.html">鋼の歯車</a></div></li>
+    <li><div class="menusub"><a href="drop00089.html">黄金</a></div></li>
+    <li><div class="menusub"><a href="drop00090.html">宇宙石</a></div></li>
+    <li><div class="menusub"><a href="drop00091.html">謎の骨</a></div></li>
+   </ul>
+  </li>
+ </ul>
+</div>
+
+<div class="menulist2">
+<!-- ０ -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- bcSide -->
+<ins class="adsbygoogle"
+     style="display:block;width:210px;"
+     data-ad-client="ca-pub-2731002088029446"
+     data-ad-slot="3192085611"
+     data-ad-format="vertical"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div class="menulist2">
+<table class="schedule fs12 pd1" width="210px">
+<tr class="bgc12"><td>連絡用メール</td></tr>
+<tr class="bgc08"><td>掲載間違い等ありましたら<br>こちらへご連絡お願いします。</td></tr>
+<tr class="bgc08"><td><a href="mailto:mail@battlecats-db.com?subject=連絡&amp;body=ご記入下さい">mail@battlecats-db.com</a></td></tr>
+<tr class="bgc08"><td><font class="H">注意</font><br>ゲーム内容についてやバグ報告<br>お問い合わせコードの送信は<br>受け付けていません。</td></tr>
+</table>
+</div>
+</div><div id="footer"><a href="#main">↑ ページトップに戻る</a></div>
+</body></html> 
