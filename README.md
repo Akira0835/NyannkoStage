@@ -11,3 +11,5 @@ Or 2. import all the enemy data, not only the stage data, to find the minimum co
 3. the content.sqlite database is quite redundent with some repeated information, I could make it more slim later. 
 
 Thanks to the https://battlecats-db.com/, where I spider all the data from their website. 
+
+readme.txt will take more details about each function and the project process. 
